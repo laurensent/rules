@@ -1,0 +1,41 @@
+# ⬇️DOMAIN
+DOMAIN,
+
+# ⬇️DOMAIN-SUFFIX
+DOMAIN-SUFFIX,
+
+# ⬇️DOMAIN-KEYWORD
+DOMAIN-KEYWORD,58corp
+DOMAIN-KEYWORD,58cdn
+DOMAIN-KEYWORD,58dns
+DOMAIN-KEYWORD,58v5
+
+
+# ⬇️PROCESS-NAME
+PROCESS-NAME,/Library/QQPCMgr.localized/QQPCMgr.app/Contents/Resources/NetworkServiceMgr
+PROCESS-NAME,/Library/QQPCMgr.localized/QQPCMgr.app/Contents/Resources/QQPCUpdate
+PROCESS-NAME,/Library/QQPCMgr.localized/QQPCMgr.app/Contents/Resources/QQPCMgrDaemon
+PROCESS-NAME,/Library/QQPCMgr.localized/QQPCMgr.app/Contents/Resources/CmdlineInterface
+PROCESS-NAME,/Library/QQPCMgr.localized/QQPCMgr.app/Contents/Resources/extinfo
+PROCESS-NAME,/Library/QQPCMgr.localized/QQPCMgr.app/Contents/Resources/runmgr
+PROCESS-NAME,/Applications/QQPCMgr.localized/QQPCMgr.app/Contents/Resources/NetworkServiceMgr
+PROCESS-NAME,/Applications/QQPCMgr.localized/QQPCMgr.app/Contents/MacOS/QQPCMgr
+PROCESS-NAME,/Applications/美事.app/Contents/Frameworks/美事 Helper.app/Contents/MacOS/美事 Helper
+PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat
+PROCESS-NAME,/Applications/神奇管家.app/Contents/Frameworks/神奇管家 Helper.app/Contents/MacOS/神奇管家 Helper
+PROCESS-NAME,/Applications/神奇管家.app/Contents/Resources/depend/macResources/58Proxy/58Proxy
+PROCESS-NAME,/Applications/神奇管家.app/Contents/Resources/depend/macResources/gjhelper/GuanjiaHelperServer
+PROCESS-NAME,/Applications/神奇管家.app/Contents/Frameworks/神奇管家 Helper (Renderer).app/Contents/MacOS/神奇管家 Helper (Renderer)
+PROCESS-NAME,/Applications/神奇管家.app/Contents/MacOS/神奇管家
+# PROCESS-NAME,/Users/anjuke/Library/Java/JavaVirtualMachines/liberica-1.8.0_345/bin/java // 58
+
+
+DOMAIN,smtp.exmail.qq.com
+DOMAIN,imap.exmail.qq.com
+DOMAIN-SUFFIX,58dns.org
+DOMAIN-SUFFIX,58corp.com
+DOMAIN-SUFFIX,anjuke.net
+DOMAIN-SUFFIX,ajkdns.com
+DOMAIN-KEYWORD,58corp
+DOMAIN-SUFFIX,58dns.org
+DOMAIN-SUFFIX,58corp.com
