@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/LucaLin233/Luca_Conf/main/Surge/Rule/Telegram.list
+
