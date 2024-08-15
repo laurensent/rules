@@ -1,0 +1,11 @@
+PROCESS-NAME,/Applications/Parallels Desktop.app/Contents/MacOS/prl_naptd
+
+DOMAIN-SUFFIX,corecode.io
+
+DOMAIN,updates.cdn-apple.com
+DOMAIN,1password.com
+DOMAIN,steamdeck-images.steamos.cloud
+DOMAIN,developer.apple.com
+DOMAIN,gst.prod.dl.playstation.net
+DOMAIN,iosapps.itunes.apple.com
+DOMAIN,osxapps.itunes.apple.com

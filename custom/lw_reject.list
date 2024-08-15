@@ -1,0 +1,17 @@
+PROCESS-NAME,/Applications/Tidy Up.app/Contents/MacOS/Tidy Up
+PROCESS-NAME,/Applications/App Cleaner 8.app/Contents/MacOS/App Cleaner 8
+PROCESS-NAME,/Applications/CleanMyMac X.app/Contents/MacOS/CleanMyMac X
+PROCESS-NAME,/Applications/Bartender 5.app/Contents/MacOS/Bartender 5
+PROCESS-NAME,/Applications/MarginNote 4.app/Contents/MacOS/MarginNote 4
+PROCESS-NAME,/Applications/CleanMyMac X.app/Contents/MacOS/CleanMyMac X
+PROCESS-NAME,/Applications/Bartender 5.app/Contents/MacOS/Bartender 5
+PROCESS-NAME,/Applications/Rewind.app/Contents/MacOS/Rewind
+PROCESS-NAME,/Applications/Kaleidoscope.app/Contents/MacOS/Kaleidoscope
+PROCESS-NAME,/Applications/Sensei.app/Contents/MacOS/Sensei
+PROCESS-NAME,/Library/QQPCMgr.localized/QQPCMgr.app/Contents/Resources/QQPCUpdate
+
+# DOMAIN-SUFFIX,rules/little-snitch-blocklist.list
+DOMAIN-SUFFIX,aggr.trade
+# AND,((NOT,((DOMAIN-SUFFIX,apple.com))), (PROTOCOL,UDP), (DEST-PORT,123))
+
+DOMAIN,heyfocus.com

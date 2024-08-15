@@ -1,0 +1,149 @@
+URL-REGEX,^http:\/\/.*\/mmtls.* // WeChat
+
+PROCESS-NAME,/Applications/BaiduNetdisk_mac.app/Contents/MacOS/BaiduNetdisk_mac
+PROCESS-NAME,/Applications/夸克网盘.app/Contents/Frameworks/夸克网盘 Helper.app/Contents/MacOS/夸克网盘 Helper
+PROCESS-NAME,/Applications/夸克网盘.app/Contents/MacOS/夸克网盘
+PROCESS-NAME,/Applications/aDrive.app/Contents/MacOS/aDrive
+PROCESS-NAME,/Applications/aDrive.app/Contents/Frameworks/aDrive Helper.app/Contents/MacOS/aDrive Helper
+PROCESS-NAME,/Applications/MediaCenter.app/Contents/MacOS/MediaCenter
+PROCESS-NAME,/Applications/aDrive.app/Contents/MacOS/aDrive
+PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat
+PROCESS-NAME,/Applications/qBittorrent.app/Contents/MacOS/qbittorrent
+
+USER-AGENT,*xhs* // 小红书
+USER-AGENT,*ivylove*
+USER-AGENT,*Alipay* // 支付宝
+USER-AGENT,*BossZP* // Boss 直聘
+USER-AGENT,*waimai* // 美团外卖
+USER-AGENT,*%E6%B7%98%E5%AE%9D* // 淘宝
+USER-AGENT,*%E5%A4%A9%E7%8C%AB* // 天猫
+USER-AGENT,*JD4iPhone* // 京东
+USER-AGENT,*%E4%BA%A4%E9%80%9A%E9%93%B6%E8%A1%8C* // 交通银行
+USER-AGENT,*%E6%90%BA%E7%A8%8B%E6%97%85%E8%A1%8C* // 携程旅行
+USER-AGENT,*%E7%BE%8E%E5%9B%A2* // 美团
+USER-AGENT,*imeituan* // 美团
+USER-AGENT,*NeiTui* // 脉脉
+USER-AGENT,*Hema4iPhone* // 盒马
+
+DOMAIN-KEYWORD,alicdn
+DOMAIN-KEYWORD,umtrack
+DOMAIN-KEYWORD,jddebug
+DOMAIN-KEYWORD,luckincoffee
+DOMAIN-KEYWORD,alibaba
+DOMAIN-KEYWORD,china
+DOMAIN-KEYWORD,tmall
+DOMAIN-KEYWORD,weibo
+DOMAIN-KEYWORD,sina
+DOMAIN-KEYWORD,gtimg
+DOMAIN-KEYWORD,qcloud
+DOMAIN-KEYWORD,tencent
+DOMAIN-KEYWORD,meituan
+DOMAIN-KEYWORD,mddcloud
+DOMAIN-KEYWORD,digicert // 随申办, 12306
+DOMAIN-KEYWORD,meituan
+DOMAIN-KEYWORD,qiaofang
+DOMAIN-KEYWORD,hdslb
+DOMAIN-KEYWORD,alibaba
+DOMAIN-KEYWORD,tripcdn
+DOMAIN-KEYWORD,unionpay
+DOMAIN-KEYWORD,youku
+DOMAIN-KEYWORD,qingteng
+DOMAIN-KEYWORD,58.com
+DOMAIN-KEYWORD,meituan // 美团
+
+DOMAIN,nd-static.bdstatic.com
+DOMAIN,stu.hfut.edu.cn
+DOMAIN,image.tmdb.org
+DOMAIN,ynuf.aliapp.org // Setapp
+DOMAIN,stun.voipraider.com // 美团小程序
+
+DOMAIN-SUFFIX,2q10.com
+DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,quark.cn
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,uzwbdv.xyz // nexitally
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,trip.com
+DOMAIN-SUFFIX,ctrip.com
+DOMAIN-SUFFIX,sspai.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,1688.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,3.cn
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,nowcoder.com
+DOMAIN-SUFFIX,basicappleguy.com
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,pnhdsme.cn
+DOMAIN-SUFFIX,qlogo.cn // WeChat
+DOMAIN-SUFFIX,qpic.cn // WeChat
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,gov.cn
+DOMAIN-SUFFIX,ntp.org
+DOMAIN-SUFFIX,huazhucorp.com // 华住会
+DOMAIN-SUFFIX,miaozhen.com // 网易云
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,qdrayst.com
+DOMAIN-SUFFIX,bankcomm.cn
+DOMAIN-SUFFIX,12306.cn
+DOMAIN-SUFFIX,95559.com.cn
+DOMAIN-SUFFIX,bankcomm.com
+DOMAIN-SUFFIX,elpass.app
+DOMAIN-SUFFIX,hfut.edu.cn
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,ikea.cn
+DOMAIN-SUFFIX,jddebug.com
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,alibabachengdun.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,zhipin.com
+DOMAIN-SUFFIX,uicdqg.xyz
+DOMAIN-SUFFIX,talkingdata.com
+DOMAIN-SUFFIX,umengcloud.com
+DOMAIN-SUFFIX,leetcode.cn
+DOMAIN-SUFFIX,dupay.one
+DOMAIN-SUFFIX,aliyundrive.net
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,baidupcs.com
+DOMAIN-SUFFIX,58corp.com
+
+# > Default
+DOMAIN,mtalk.google.com
+DOMAIN,mobile-gtalk.l.google.com
+DOMAIN,alt1-mtalk.google.com
+DOMAIN,alt2-mtalk.google.com
+DOMAIN,alt3-mtalk.google.com
+DOMAIN,alt4-mtalk.google.com
+DOMAIN,alt5-mtalk.google.com
+DOMAIN,alt6-mtalk.google.com
+DOMAIN,alt7-mtalk.google.com
+DOMAIN,alt8-mtalk.google.com
+DOMAIN,alt9-mtalk.google.com
+
+PROCESS-NAME,v2ray
+PROCESS-NAME,ss-local
+PROCESS-NAME,UUBooster
+PROCESS-NAME,aria2c
+PROCESS-NAME,fdm
+PROCESS-NAME,NetTransport
+PROCESS-NAME,Thunder
+PROCESS-NAME,Transmission
+PROCESS-NAME,uTorrent
+PROCESS-NAME,WebTorrent
+PROCESS-NAME,WebTorrent Helper

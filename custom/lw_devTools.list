@@ -1,0 +1,20 @@
+PROCESS-NAME,/usr/bin/curl
+PROCESS-NAME,/Applications/ChatGPT.app/Contents/MacOS/ChatGPT // ChatGPT
+
+DOMAIN-KEYWORD,discord
+DOMAIN-KEYWORD,anthropic // Claude Anthropic
+DOMAIN-KEYWORD,claude // Claude Anthropic
+DOMAIN-KEYWORD,nvidia
+
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,warp.dev
+DOMAIN-SUFFIX,leetcode.com
+DOMAIN-SUFFIX,ui.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,livekit.cloud
+
+DOMAIN,api.revenuecat.com // ChatGPT
+DOMAIN,browser-intake-datadoghq.com // ChatGPT
+DOMAIN,copilot.microsoft.com
+DOMAIN,gemini.google.com

@@ -21,7 +21,12 @@ payload:
 - IP-CIDR6,2402:db40:5100:1011::5/128
 # JD Cloud
 - IP-CIDR,103.224.222.208/32
+# Kuaishou
+- DOMAIN,kuaishou.httpdns.pro
+# Meituan
+- DOMAIN,httpdns.meituan.com
 # NetEase
+- DOMAIN,httpdns.yunxindns.com
 - DOMAIN,httpdns.n.netease.com
 - DOMAIN,httpdns.music.163.com
 - DOMAIN,music.httpdns.c.163.com
@@ -32,6 +37,9 @@ payload:
 - IP-CIDR,115.236.121.195/32
 # Oppo
 - DOMAIN,httpdns.push.oppomobile.com
+# Tencent Cloud
+- IP-CIDR,119.29.29.98/32
+- IP-CIDR,119.29.29.99/32
 # Volcengine
 - DOMAIN,httpdns.volcengineapi.com
 # Weibo

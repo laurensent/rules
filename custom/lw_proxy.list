@@ -1,6 +1,4 @@
-PROCESS-NAME,/usr/bin/curl
-PROCESS-NAME,/usr/local/Cellar/node/19.8.1/bin/node
-PROCESS-NAME,/Applications/Fig.app/Contents/MacOS/fig
+DOMAIN-KEYWORD,reddit
 
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,jable.tv
@@ -9,10 +7,8 @@ DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,qdrayst.com
 DOMAIN-SUFFIX,omnigroup.com
 DOMAIN-SUFFIX,arxiv-sanity.com
-# DOMAIN-SUFFIX,fastmail.com
 DOMAIN-SUFFIX,macwk.com
 DOMAIN-SUFFIX,basicappleguy.com
-DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,naiyouu.com
 DOMAIN-SUFFIX,naixii.com
@@ -32,12 +28,11 @@ DOMAIN-SUFFIX,omnigroup.com
 DOMAIN-SUFFIX,arxiv-sanity.com
 DOMAIN-SUFFIX,macwk.com
 DOMAIN-SUFFIX,basicappleguy.com
-# DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,naiyouu.com
 DOMAIN-SUFFIX,naixii.com
 DOMAIN-SUFFIX,n26.com
-DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,elastic.co
 DOMAIN-SUFFIX,stackoverflow.com
@@ -47,6 +42,35 @@ DOMAIN-SUFFIX,rectangleapp.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,craft.do
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,readwise.io
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,nexitally.com
+DOMAIN-SUFFIX,todoist.com
+DOMAIN-SUFFIX,elgato.com
+DOMAIN-SUFFIX,ainude.ai
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,vmware.com
+DOMAIN-SUFFIX,obdev.at
+DOMAIN-SUFFIX,macked.app
+DOMAIN-SUFFIX,rime.im // Rime
+DOMAIN-SUFFIX,folivora.ai
+DOMAIN-SUFFIX,south-plus.net
+DOMAIN-SUFFIX,1passwordservices.com // 1Password
+DOMAIN-SUFFIX,agilebits.com // 1Password
+DOMAIN-SUFFIX,1passwordusercontent.com // 1Password
+DOMAIN-SUFFIX,1password.com // 1Password
+DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,parallels.com
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,typora.io
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,raycast.com
+DOMAIN-SUFFIX,picsart.com
+DOMAIN-SUFFIX,fastmailusercontent.com // FastMail
+DOMAIN-SUFFIX,fastmail.com // FastMail
+DOMAIN-SUFFIX,algolianet.com
+DOMAIN-SUFFIX,elpass.app
 
-DOMAIN-KEYWORD,reddit
-DOMAIN-KEYWORD,img.com
+DOMAIN,macupdater-backend.com
+DOMAIN,dl.nssurge.com // Surge
