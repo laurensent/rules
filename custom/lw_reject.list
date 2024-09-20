@@ -15,3 +15,5 @@ DOMAIN-SUFFIX,aggr.trade
 # AND,((NOT,((DOMAIN-SUFFIX,apple.com))), (PROTOCOL,UDP), (DEST-PORT,123))
 
 DOMAIN,heyfocus.com
+PROCESS-NAME,/Applications/Rewind.app/Contents/MacOS/Rewind
+PROCESS-NAME,/Applications/Bartender 5.app/Contents/MacOS/Bartender 5

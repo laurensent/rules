@@ -1,5 +1,3 @@
-DOMAIN-KEYWORD,reddit
-
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,missav.com
@@ -74,3 +72,5 @@ DOMAIN-SUFFIX,elpass.app
 
 DOMAIN,macupdater-backend.com
 DOMAIN,dl.nssurge.com // Surge
+DOMAIN-SUFFIX,istatmenus.app
+DOMAIN-SUFFIX,patreon.com
