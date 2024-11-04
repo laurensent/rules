@@ -2,6 +2,9 @@ PROCESS-NAME,/Applications/Parallels Desktop.app/Contents/MacOS/prl_naptd
 
 DOMAIN-SUFFIX,corecode.io
 
+DOMAIN,ps5.update.playstation.net
+DOMAIN-WILDCARD,*np.dl.playstation.net
+
 DOMAIN,updates.cdn-apple.com
 DOMAIN,1password.com
 DOMAIN,steamdeck-images.steamos.cloud
