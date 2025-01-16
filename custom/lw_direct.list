@@ -25,6 +25,7 @@ USER-AGENT,*imeituan* // 美团
 USER-AGENT,*NeiTui* // 脉脉
 USER-AGENT,*Hema4iPhone* // 盒马
 
+DOMAIN-KEYWORD,amazon.cn
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,umtrack
 DOMAIN-KEYWORD,jddebug

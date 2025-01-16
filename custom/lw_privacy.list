@@ -1,0 +1,10 @@
+DOMAIN,affiliationjs.s3.amazonaws.com
+DOMAIN,widgets.pinterest.com,REJECT
+DOMAIN,amazonaax.com
+DOMAIN,ssl.google-analytics.com,REJECT
+DOMAIN,advertising.apple.com
+DOMAIN,ads.youtube.com,REJECT
+DOMAIN,adtech.yahooinc.com
+DOMAIN,ads.pinterest.com,REJECT
+DOMAIN,advertising-api-eu.amazon.com
+DOMAIN,ads.tiktok.com,REJECT

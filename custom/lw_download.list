@@ -1,6 +1,6 @@
 PROCESS-NAME,/Applications/Parallels Desktop.app/Contents/MacOS/prl_naptd
 
-DOMAIN-SUFFIX,corecode.io
+# DOMAIN-SUFFIX,corecode.io
 
 DOMAIN,ps5.update.playstation.net
 DOMAIN-WILDCARD,*np.dl.playstation.net

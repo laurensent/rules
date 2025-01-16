@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,missav.com
@@ -58,7 +59,6 @@ DOMAIN-SUFFIX,1passwordservices.com // 1Password
 DOMAIN-SUFFIX,agilebits.com // 1Password
 DOMAIN-SUFFIX,1passwordusercontent.com // 1Password
 DOMAIN-SUFFIX,1password.com // 1Password
-DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,typora.io
@@ -74,3 +74,11 @@ DOMAIN,macupdater-backend.com
 DOMAIN,dl.nssurge.com // Surge
 DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,patreon.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,onlyfans.com
+DOMAIN-SUFFIX,stackexchange.com
+DOMAIN-SUFFIX,follow.is
+DOMAIN-SUFFIX,mgmtekno.com

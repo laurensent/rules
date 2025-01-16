@@ -10,7 +10,6 @@ PROCESS-NAME,/Applications/Kaleidoscope.app/Contents/MacOS/Kaleidoscope
 PROCESS-NAME,/Applications/Sensei.app/Contents/MacOS/Sensei
 PROCESS-NAME,/Library/QQPCMgr.localized/QQPCMgr.app/Contents/Resources/QQPCUpdate
 
-# DOMAIN-SUFFIX,rules/little-snitch-blocklist.list
 DOMAIN-SUFFIX,aggr.trade
 # AND,((NOT,((DOMAIN-SUFFIX,apple.com))), (PROTOCOL,UDP), (DEST-PORT,123))
 
